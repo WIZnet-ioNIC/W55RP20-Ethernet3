@@ -18,6 +18,11 @@ Instead of using `#include <Ethernet3>`, use:
 #include <W55RP20_Ethernet3.h>
 ```
 
+## Getting Started
+
+For a detailed getting started guide, please refer to:
+[Getting Started with Ethernet3 on W55RP20 using Arduino](https://maker.wiznet.io/mason/projects/getting%2Dstarted%2Dwith%2Dethernet3%2Don%2Dw55rp20%2Dusing%2Darduino/?serob=rt&serterm=year)
+
 ## Credits
 
 - [sstaub/Ethernet3](https://github.com/sstaub/Ethernet3) - Original Ethernet3 library
